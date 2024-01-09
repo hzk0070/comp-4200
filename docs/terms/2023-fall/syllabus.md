@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2023*
+*Published: August 14, 2023; Updated: August 17, 2023*
 
 ---
 
@@ -85,7 +85,7 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA  
+**office hours:** TR 1:30 PM - 3:00 PM 
 *Other times available by appointment.*  
 
 
@@ -93,8 +93,7 @@ Auburn, AL 36849
 
 GTA | Email | Office Hours | Office
 --- | ----- | ------------ | -----
-TBA | TBA | TBA | TBA
-
+Tin Nguyen            | `ttn0011@auburn.edu` | WF 3:00 PM - 4:00 PM | Shelby 2319 
 
 
 ---
@@ -126,7 +125,7 @@ below 60%       | F
 Lecture attendance is not required. However, in-class participation is encouraged and incentivized 
 by an extra 5% of the total course grade. You may earn up to 1 point each class for raising or answering a question regarding the discussion of the lecture.
 
-The participation grade is computed by 5% x N/30. To obtain the maximum of 5%, you need to participate in the discussion of at least N ≥ 30 lectures, approximately 2/3 of the lectures.
+The participation grade is computed by 5% x N/20. To obtain the maximum of 5%, you need to participate in the discussion of at least N ≥ 20 lectures, approximately 2/3 of the lectures.
 
 
 
