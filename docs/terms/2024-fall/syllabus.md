@@ -125,7 +125,7 @@ below 60%       | F
 Lecture attendance is not required. However, in-class participation is encouraged and incentivized 
 by an extra 5% of the total course grade. You may earn up to 1 point each class for raising or answering a question regarding the discussion of the lecture.
 
-The participation grade is computed by 5% x N/30. To obtain the maximum of 5%, you need to participate in the discussion of at least N ≥ 30 lectures, approximately 2/3 of the lectures.
+The participation grade is computed by 5% x N/20. To obtain the maximum of 5%, you need to participate in the discussion of at least N ≥ 20 lectures, approximately 2/3 of the lectures.
 
 
 
