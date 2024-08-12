@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 9, 2024*
+*Published: January 9, 2024; Updated: January 19, 2024*
 
 ---
 
@@ -85,7 +85,7 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA
+**office hours:** MWF 12:00 PM - 1:00 PM 
 *Other times available by appointment.*  
 
 
@@ -93,7 +93,7 @@ Auburn, AL 36849
 
 GTA | Email | Office Hours | Office
 --- | ----- | ------------ | -----
-TBA            | `TBA` | TBA | TBA 
+Tin Nguyen            | `ttn0011@auburn.edu` | T 2:00 PM - 3:00 PM <br> F 3:00 PM - 4:00 PM | Shelby 2319 
 
 
 ---
