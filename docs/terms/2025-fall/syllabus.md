@@ -1,6 +1,165 @@
 
 ---
 
+# COMP 4200 Formal Languages <br> FALL 2025 Course Syllabus
+
+*This syllabus is subject to change. Substantive changes will be announced in Canvas.*
+
+*Published: August 17, 2025*
+
+---
+
+
+# Instructional Mode
+
+- *Lecture meetings*: Lectures will be delivered in person.
+
+- *Exams*: Exams will be given in-person during the scheduled lecture times.
+
+- *Office Hours*: Instructor office hours will be held in person at a regularly scheduled time or remotely via appointment.
+
+
+### Notes On In-Person Attendance
+
+All health and safety policies adopted by Auburn University will be followed in
+this course. Auburn University permits individual faculty members to require
+face coverings in their classrooms. Face coverings and other protective measures
+are not currently required in this course, but this may change if campus health
+situations warrant.
+
+
+
+# Course Description
+
+Fundamentals of formal languages including mathematical models of regular sets, context-free languages and Turing machines; deterministic and non-deterministic models.
+
+>**Credit Hours:** 3 (LEC)
+>
+>**Prerequisite:** COMP 3240 Discrete Structures
+
+
+
+# Learning Outcomes
+
+By the end of this course, the student will demonstrate an ability to:
+
+- Understand mathematical and formal methods of computer science
+- Understand classes of abstract languages, their boundaries, and their representations 
+both in terms of grammar and machine models 
+- Understand the significance of formal languages for computer science in general
+
+
+---
+
+# Materials and Resources
+
+## Required Textbook
+
+Michael Sipser, *Introduction to the Theory of Computation*, 3rd edition, Cengage Learning, 2013. 
+
+
+## Canvas
+
+All course communications will be made through Canvas announcement. These communications
+may be time-sensitive, require you to act and/or affect your grade. Please check the course
+Canvas regularly or set up to receive notifications for course announcement 
+([video guide](https://community.canvaslms.com/t5/Video-Guide/Notification-Preferences-All-Users/ta-p/383690)).
+
+---
+
+# Instructional Staff
+
+## Instructor
+
+<img src="https://www.gravatar.com/avatar/c21a731fe002707ed7ceee3a651dcfb1" />
+
+### Hugh Kwon
+
+Lecturer and Ph.D. Candidate  
+Computer Science and Software Engineering  
+3139C Shelby Center  
+Auburn University  
+345 West Magnolia Ave  
+Auburn, AL 36849  
++1 334 844 6310  
+`hzk0070@auburn.edu`  
+<http://eng.auburn.edu/csse>  
+<https://auburn.zoom.us/my/hughkwon>  
+**office hours:** TuTh 1:00 PM - 2:00 PM  
+*Other times available by appointment.*  
+
+
+## Teaching Assistants
+
+GTA | Email | Office Hours | Office
+--- | ----- | ------------ | -----
+Brad Bulson            | `bab0176@auburn.edu` | TBA | TBA
+
+
+---
+
+# Grading
+
+Your grade for the course will be computed as follows with 105% maximum possible grade:
+
+- **Assignments** (30%)
+  
+- **Exams** (70%): There will be four exams in total (3 midterms + final) with one of the lowest exam grade dropped.
+That is, if you are happy with your grade at the end of the semester, you may skip taking the comprehensive final exam.
+The final exam serves as a natural make up exam and taking it may improve your grade, but never lower it.
+
+- **In-class participation** (5%)
+
+
+*Total*   | Letter Grade
+--------  | ------------
+90% or above    | A
+80% to <90%     | B
+70% to <80%     | C
+60% to <70%     | D
+below 60%       | F
+
+
+# Attendance
+
+Lecture attendance is not required. However, in-class participation is encouraged and incentivized 
+by an extra 5% of the total course grade. You may earn up to 1 point each class for raising or answering a question regarding the discussion of the lecture.
+
+The participation grade is computed by 5% x N/30. To obtain the maximum of 5%, you need to participate in the discussion of at least N ≥ 30 lectures, approximately 2/3 of the lectures.
+
+
+
+
+---
+
+# Tentative Assignment Schedule
+
+The tentative 15-week schedule is given below. The schedule is subject to change depending on the progress of the course except the final exam which follows the schedule set by the Registrar's office.
+
+Week | Topic(s)            
+-----| -----------          
+1  | Introduction, Strings and sets
+2  | Finite automata 
+3  | Regular sets, **hw 1** 
+4  | Nondeterministic finite automata and conversion to DFA, **hw 2** 
+5  | Pattern matching, regular expressions & relation to finite automata
+6  | Limits of finite automata, **hw 3** 
+7  | Pumping lemma, **midterm 1**    
+8  | Context free grammars and languages, **hw 4** 
+9  | Chomsky Normal Form, Pushdown automata, Parsing
+10 | Pushdown automata and relation to context-free grammars 
+11 | Pumping lemma for CFL, **hw5** , **midterm 2**
+12 | Turing machines and effective computability and Universal machines and decidability, **hw 6** 
+13 | Diagonalization
+14 | Implementing a Turing machine simulator
+15 | Catch-up, review, **midterm 3**
+ 
+**Final Exam**: **Friday, December 12, 1:30 PM - 3:30 PM** (follows the Registrar's final exam schedule)
+
+
+
+---
+
 # Course Policies
 
 
