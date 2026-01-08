@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 6, 2026*
+*Published: January 6, 2026; Updated: January 8, 2026*
 
 ---
 
@@ -57,6 +57,12 @@ both in terms of grammar and machine models
 
 Michael Sipser, *Introduction to the Theory of Computation*, 3rd edition, Cengage Learning, 2013. 
 
+This course participates in the 
+[All Access (http://aub.ie/allaccess)](http://aub.ie/allaccess) through which
+you can have access to the zyBook on the first day of class. Please see the link
+for more details and All Access opt-out policy.
+
+![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
 
 ## Canvas
 
