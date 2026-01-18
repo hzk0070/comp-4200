@@ -1,11 +1,10 @@
-
 ---
 
 # COMP 4200 Formal Languages <br> SPRING 2026 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 6, 2026; Updated: January 8, 2026*
+*Published: January 6, 2026; Updated: January 17, 2026*
 
 ---
 
@@ -64,6 +63,7 @@ for more details and All Access opt-out policy.
 
 ![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
 
+
 ## Canvas
 
 All course communications will be made through Canvas announcement. These communications
@@ -97,9 +97,9 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Office Hours | Office
---- | ----- | ------------ | -----
-Brad Bulson            | `bab0176@auburn.edu` | TBA | TBA
+GTA | Email | Office Hours | Office | Zoom (appt only)
+--- | ----- | ------------ | ----- | ----
+Brad Bulson            | `bab0176@auburn.edu` | WF 1:00 PM - 2:00 PM | Shelby 2113 | [Zoom Link](https://us04web.zoom.us/j/9486909350?pwd=MamtE5i5kBoDCacSy5Jb608bjZnaAe.1)
 
 
 ---
