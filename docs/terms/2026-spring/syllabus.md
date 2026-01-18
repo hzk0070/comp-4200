@@ -1,3 +1,4 @@
+
 ---
 
 # COMP 4200 Formal Languages <br> SPRING 2026 Course Syllabus
