@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 8, 2026*
+*Published: August 8, 2026; Updated: August 20, 2026*
 
 ---
 
@@ -91,9 +91,10 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Office Hours | Office | Zoom (appt only)
---- | ----- | ------------ | ----- | ----
-TBA            | `TBA` | TBA | TBA | TBA
+GTA | Email | Office Hours | Office
+--- | ----- | ------------ | ----- 
+Brad Bulson            | `bab0176@auburn.edu` | TuTh 1:00 PM - 2:00 PM | Shelby 2119
+
 
 
 ---
